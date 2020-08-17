@@ -1,6 +1,6 @@
 # YaoGraph_Y4
 ## About
-Code from Master Thesis Project Villanova University 
+Code from Master Thesis Project CSC 9030: Thesis at Villanova University 
 
 ## Project Description
 Investigate and analyze the suitability of Yao graphs as communication graphs for networks with directional antenna. Also investigate antennas configuration to appropriately form efficient communication graphs in mobile ad-ho networks.
